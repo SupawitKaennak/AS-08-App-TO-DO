@@ -1,6 +1,13 @@
 # as_08_app_to_do
 
-A new Flutter project.
+<img width="517" height="1066" alt="image" src="https://github.com/user-attachments/assets/f5bba3b1-a4d1-4160-b7b8-7bba0111106d" />
+<img width="497" height="1052" alt="image" src="https://github.com/user-attachments/assets/c2ec240e-e366-409b-b905-ace119543c67" />
+<img width="502" height="1049" alt="image" src="https://github.com/user-attachments/assets/3d1ae245-b92c-441a-b391-861876cb6682" />
+<img width="501" height="1055" alt="image" src="https://github.com/user-attachments/assets/545e6760-c4f5-4260-b2a3-96e836c5d2be" />
+
+
+
+
 
 ## Getting Started
 
